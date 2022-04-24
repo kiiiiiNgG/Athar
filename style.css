@@ -26,6 +26,9 @@ h2 {
   background-color: #fff;
   color: red;
   border: 2px solid #5b82ad75;
+  height: 5vh;
+  width: 40vh;
+  font-size: 3vh;
 }
 .buttonn:hover {
   background-color: #32313d75;
