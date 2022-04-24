@@ -19,6 +19,7 @@ h1 {
 }
 .p {
   color: red;
+  background-color: #171717;
 }
 .button {
   background-color: #fff;
@@ -49,4 +50,8 @@ th {
 
 tr:nth-child(even) {
   background-color: #ffffff;
+}
+a {
+  text-decoration: none;
+  color: #ff0000;
 }
