@@ -29,6 +29,7 @@ h2 {
   height: 5vh;
   width: 40vh;
   font-size: 3vh;
+  margin: 2vh;
 }
 .buttonn:hover {
   background-color: #32313d75;
@@ -58,4 +59,7 @@ tr:nth-child(even) {
 a {
   text-decoration: none;
   color: #ff0000;
+}
+.k {
+  color: #fff;
 }
